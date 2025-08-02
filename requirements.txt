@@ -1,6 +1,0 @@
-streamlit
-transformers
-torch
-sentencepiece
-python-dotenv
-pyttsx3
